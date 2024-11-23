@@ -39,6 +39,7 @@ This repository contains code written using the following technologies and tools
 To get started with the code in this repository:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/janainacazuza/Code.git
 
@@ -47,9 +48,7 @@ To get started with the code in this repository:
 
 - Thanks to [My Husband, Higor Cazuza](https://github.com/higorcazuza81) for providing valuable feedback and guidance.
 
-
-
- ## Contact
+## Contact
 
 You can reach me at:
 
@@ -71,4 +70,3 @@ If you would like to contribute to this repository, feel free to fork it and cre
 5. Submit a pull request with a detailed description of your changes.
 
 Thank you for considering contributing!
-
