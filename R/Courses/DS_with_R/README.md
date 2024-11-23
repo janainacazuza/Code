@@ -19,6 +19,7 @@ To run this notebook, you need to have R and RStudio installed. Additionally, th
 
 - **R**: Version 4.0 or later (Download from [CRAN](https://cran.r-project.org/))
 - **RStudio**: Latest version is recommended (Download from [RStudio](https://posit.co/products/open-source/rstudio/))
+- or VSCode ( to simplify, I recommend use RStudio)
 
 ### Packages
 
@@ -36,7 +37,7 @@ install.packages(c("dplyr", "ggplot2", "readr"))
 
 ## 📂 Repository Structure
 
-- **notebooks/**: Contains the R notebook for Course 01 (`course_01_notebook.Rmd`).
+- **notebooks/**: Contains the R notebook for Course 01 (`01_knowing_R.ipynb`).
 - **data/**: Includes sample datasets used in the course.
 - **README.md**: This file, explaining the purpose and usage of the repository.
 
@@ -48,7 +49,7 @@ install.packages(c("dplyr", "ggplot2", "readr"))
    git clone https://github.com/your-username/your-repo-name.git
    ```
 
-2. Open the `course_01_notebook.Rmd` file in RStudio.
+2. Open the `01_knowing_R.ipynb` file in VSCode
 3. Install the required packages (if not already installed).
 4. Run the notebook chunk by chunk to follow along with the course.
 
