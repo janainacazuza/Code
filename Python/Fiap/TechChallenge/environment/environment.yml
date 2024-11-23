@@ -1,0 +1,11 @@
+name: tech_challenge_env
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - statsmodels
+  - xgboost
+  - pmdarima
+  - prophet
+  - scikit-learn
